@@ -48,9 +48,11 @@ This project aims to classify human emotions based on facial expressions using a
 
 ## 4. Usage
 * To train the model, run:
-  ''' python main.py --mode train
+  ''' bash
+  python main.py --mode train
 * To evaluate the model, run:
-  ''' python main.py --mode evaluate
+  ''' bash
+  python main.py --mode evaluate
 
 ## 5. Model Architecture
 The CNN model has four convolutional layers, followed by max-pooling and dropout layers for down-sampling and regularization. The architecture also includes two fully-connected layers for classification. For more details, please refer to the code.
