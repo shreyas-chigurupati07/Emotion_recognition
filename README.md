@@ -48,10 +48,10 @@ This project aims to classify human emotions based on facial expressions using a
 
 ## 4. Usage
 * To train the model, run:
-  ''' bash
+  ``` bash
   python main.py --mode train
 * To evaluate the model, run:
-  ''' bash
+  ``` bash
   python main.py --mode evaluate
 
 ## 5. Model Architecture
