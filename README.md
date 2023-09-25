@@ -27,14 +27,14 @@ This project aims to classify human emotions based on facial expressions using a
 * livelossplot
 
 ## 2. Installation
-* Clone this repository:
-  ''' git clone https://github.com/shreyas-chigurupati07/emotion-recognition.git
+* Clone this repository:<br>
+  ``` git clone https://github.com/shreyas-chigurupati07/emotion-recognition.git
 
-* Navigate to the project directory:
-  ''' cd emotion-recognition
+* Navigate to the project directory:<br>
+  ``` cd emotion-recognition
 
-* Install the required packages: 
-  ''' pip install -r requirements.txt
+* Install the required packages:<br>
+  ``` pip install -r requirements.txt
 
 ## 3. Project structure
 * 'train/': Contains training images organized by emotion categories.
