@@ -28,18 +28,16 @@ This project aims to classify human emotions based on facial expressions using a
 
 ## 2. Installation
 * Clone this repository:<br>
-  ``` git clone https://github.com/shreyas-chigurupati07/emotion-recognition.git
-
-* **Clone this repository:**
-   ```bash
-   git clone https://github.com/shreyas-chigurupati07/emotion-recognition.git
-
+  ``` bash
+  git clone https://github.com/shreyas-chigurupati07/emotion-recognition.git
 
 * Navigate to the project directory:<br>
-  ``` cd emotion-recognition
+  ``` bash
+  cd emotion-recognition
 
 * Install the required packages:<br>
-  ``` pip install -r requirements.txt
+  ``` bash
+  pip install -r requirements.txt
 
 ## 3. Project structure
 * 'train/': Contains training images organized by emotion categories.
