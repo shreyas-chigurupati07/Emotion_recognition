@@ -30,6 +30,11 @@ This project aims to classify human emotions based on facial expressions using a
 * Clone this repository:<br>
   ``` git clone https://github.com/shreyas-chigurupati07/emotion-recognition.git
 
+* **Clone this repository:**
+   ```bash
+   git clone https://github.com/shreyas-chigurupati07/emotion-recognition.git
+
+
 * Navigate to the project directory:<br>
   ``` cd emotion-recognition
 
